@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hubot-recast-ai",
+        "scope": null,
+        "escapedName": "hubot-recast-ai",
+        "name": "hubot-recast-ai",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Tberdy/dev/node/hubot-recast-ai"
+    ]
+  ],
+  "_from": "hubot-recast-ai@latest",
+  "_id": "hubot-recast-ai@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/hubot-recast-ai",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/hubot-recast-ai-1.0.0.tgz_1468421806852_0.459114235593006"
+  },
+  "_npmUser": {
+    "name": "tberdy",
+    "email": "tberdy@hotmail.fr"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hubot-recast-ai",
+    "scope": null,
+    "escapedName": "hubot-recast-ai",
+    "name": "hubot-recast-ai",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/hubot-recast-ai/-/hubot-recast-ai-1.0.0.tgz",
+  "_shasum": "829e653cc45a1a6179bb02b41676fcac26aff875",
+  "_shrinkwrap": null,
+  "_spec": "hubot-recast-ai",
+  "_where": "/Users/Tberdy/dev/node/hubot-recast-ai",
+  "author": {
+    "name": "tberdy",
+    "email": "tberdy@hotmail.fr"
+  },
+  "dependencies": {
+    "hubot": "2.x",
+    "recastai": "^2.3.0"
+  },
+  "description": "A Hubot connector for Recast.ai",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "829e653cc45a1a6179bb02b41676fcac26aff875",
+    "tarball": "https://registry.npmjs.org/hubot-recast-ai/-/hubot-recast-ai-1.0.0.tgz"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "Recast.ai",
+    "Recast",
+    "AI"
+  ],
+  "license": "BSD",
+  "main": "index.coffee",
+  "maintainers": [
+    {
+      "name": "tberdy",
+      "email": "tberdy@hotmail.fr"
+    }
+  ],
+  "name": "hubot-recast-ai",
+  "optionalDependencies": {},
+  "scripts": {},
+  "version": "2.0.5"
+}
